@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サイバーパンクデッドボーイ（feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン）",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-14T12:06:41.729632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サイバーパンクデッドボーイ (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/01_サイバーパンクデッドボーイ_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)_ワンダーランズ×ショウタイム.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイバーパンクデッドボーイ (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_サイバーパンクデッドボーイ_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
